@@ -6,5 +6,3 @@ biogeme
 scipy
 seaborn
 pyarrow
-basemap
-basemap-data-hires
